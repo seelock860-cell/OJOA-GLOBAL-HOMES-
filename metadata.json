@@ -1,0 +1,6 @@
+{
+  "name": "Crownhaven Properties",
+  "description": "Premier Nigerian real estate development, luxury residential estates, and verified land investment advisory across Lagos and Abuja.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
